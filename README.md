@@ -64,7 +64,7 @@ node main pm2 start main.js
 ```
 ## For Termux
 - sorry, this repo doesn't support termux :(
->[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rashidsiregar28/chika-bot)
+>[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ridho17-ind/chika-bot)
 >
 
 ## For VPS
