@@ -1,8 +1,8 @@
 {
-  "ownerNumber": [ "6285219416361@s.whatsapp.net" ],
+  "ownerNumber": [ "6288805890128@s.whatsapp.net" ],
   "limitCount": 20,
   "gamewaktu": 60,
-  "botName": "ChikaBot",
+  "botName": "Flicks Bot",
   "pathImg": "./media/yo.jpg",
   "lolkey": "APIKEY",
   "zekskey": "chika-key",
@@ -14,6 +14,6 @@
     "prem": 999999,
     "user": 25
   },
-  "packSticker": "By ChikaBot😍😍",
-  "authorSticker": "Jangan Lupa Donasi Yak😅"
+  "packSticker": "By Flicks Bot",
+  "authorSticker": "Jangan Lupa Sholat Yak"
 }
