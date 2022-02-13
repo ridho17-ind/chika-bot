@@ -346,7 +346,6 @@ exports.menuPrice = (owner, pushname) => {
 *Pembayaran Bisa Melalui Metode Pembayaran di Bawah:*
 *OVO/Dana/Gopay = ${owner}*
 *QRis yang dilampirkan*
-*PAYPAL = rashidsiregar28@gmail.com*
 
 *_note_*:
 *Jika kalian ingin menjadi owner bot,bisa chat owner untuk price nya :D*
@@ -367,7 +366,6 @@ exports.UpToPremi = (ownerNumber, prefix) => {
 *Jika Tertarik,Kalian Bisa Bayar Melalui Metode Pembayaran di Bawah:*
 *OVO/Dana/Gopay = ${ownerNumber}*
 *Qris pada gambar diatas*
-*PAYPAL = rashidsiregar28@gmail.com*
 
 *Info Lebih Lengkap Chat Owner, Ketik ${prefix}owner
 *_note_*:
@@ -399,7 +397,7 @@ exports.tos = (ownerNumber, prefix) => {
 *── 「 DONATE 」 ──*
 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-08127668234 (OVO/Telkomsel/GoPay)
+088805890128 (OVO/XL/Smartfren/GoPay)
 
 
 Terima kasih!
